@@ -33,7 +33,7 @@ function xmas_snow() {
 // Set the number of snowflakes (more than 30 - 40 not recommended)
 var snowmax=50
 // Set the colors for the snow. Add as many colors as you like
-var snowcolor=new Array("#aaaacc","#ddddff","#ccccdd","#f3f3f3","#f0ffff")
+var snowcolor=new Array("#aaaacc","#ddddff","#ccccdd","#f3f3f3","#f0ffff","#bbf7f9")
 // Set the fonts, that create the snowflakes. Add as many fonts as you like
 var snowtype=new Array("Times","Arial","Times","Verdana")
 // Set the letter that creates your snowflake (recommended: * )
