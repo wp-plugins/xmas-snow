@@ -3,7 +3,7 @@
 Plugin Name: Xmas Snow
 Plugin URI: http://graphicedit.com/blog/plugin/xmas-snow/
 Description: This plugin adds Xmas Snow.
-Version: 1.0.1
+Version: 1.0.2
 Author: GraphicEdit
 Author URI: http://graphicedit.com/
 
